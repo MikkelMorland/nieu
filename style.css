@@ -114,17 +114,20 @@ body{
 #popup2>h1{
     position: relative;
     top: 30%;
+    padding: 10px;
 }
 
 #popup2>p{
     position: relative;
     top: 30%;
+    padding: 10px;
 }
 
 #popup2>img{
     position: relative;
     top: 30%;
     width: 100px;
+    padding: 10px;
 }
 
 #popup2>button{
